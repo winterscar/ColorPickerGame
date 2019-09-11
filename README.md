@@ -1,2 +1,0 @@
-# ColorPickerGame
-Created with CodeSandbox
